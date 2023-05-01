@@ -12,7 +12,7 @@ System Installation/Setup
 6.	Create a new database naming theater_db.
 7.	Import the provided SQL file. The file is known as theater_db.sql located inside the database folder.
 8.	 Use this link to open user interface: http://localhost/Movie_Seat_Reservation_System
-9.	Use this link to open admin interface: http://localhost/Movie_Seat_Reservation_System/admin/login.php\
+9.	Use this link to open admin interface: http://localhost/Movie_Seat_Reservation_System/admin/login.php/
 
 
 
