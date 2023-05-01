@@ -17,5 +17,49 @@ System Installation/Setup
 
 
 
+Medicare is an online Medicine delivery web application for ordering   medicine items of different stores from a medical stores.
+Medicare is a Medicine chain that delivers medical items of     different items at affordable prices.
+2.Project GitHub Link
+
+Repository Name.	Movie Booking-Capstone-Project
+GitHub Link.	https://github.com/UdayBoppapuram/My-Movieplan/
+1.	Modules in the Project.
+a.	Registration Page.
+b.	Login Page.
+c.	User Login.
+d.	Admin Login.
+e.	Dashboard.
+f.	Search Products.
+g.	Add Cart/View Cart.
+h.	Add Cart/View Categories
+i.	Add Cart/View users
+j.	Modify order status.
+k.	View Previous Active Orders.
+l.	Payment Gateway Page.
+m.	Order Summary Confirmation Page.
+2.	Technology Used in the Project.
+
+a.	Front End:
+HTML.
+CSS3 and Bootstrap4. TypeScript.
+Angular, Angular Material for View.
+
+b.	VS Code: As an IDE to design frontend of the application.
+
+c.	Git: To connect and push files from the local system to GitHub.
+
+d.	Scrum: An efficient agile framework to deliver the product incrementally.
+
+e.	Back End:
+
+Eclipse IDE.
+Java Programming. Searching and Sorting Spring Boot DevTools.
+Spring Web and Spring Data JPA.
+
+f.	Testing and DevOps:
+
+
+Selenium. Jenkins.
+Docker and TestNG.
 
 
